@@ -4,7 +4,7 @@ This project can **identify network attacts** with the help of packet data flow 
 ## [Problem Statement](Problem-Statement.txt)
 **Intrusion Detection Systems** (IDSs) and **Intrusion Prevention Systems** (IPSs) are the most important **defense tools** against the sophisticated and ever-growing network attacks. Given a **Network flow data**, can we detect different network attacks?
 
-<img src='IDS.png'/>
+<img src='Graphics/IDS.png'/>
 
 ### About Data
 There are different types of network attacks such as Brute Force FTP, Brute Force SSH, DoS, Heartbleed, Web Attack, Infiltration, Botnet and DDoS. But, in this data set we have only provided **DoS attack**.
