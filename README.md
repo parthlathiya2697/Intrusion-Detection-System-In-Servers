@@ -7,7 +7,7 @@ This project can **identify network attacts** with the help of packet data flow 
 <img src='Graphics/IDS.png'/>
 
 ### About Data
-[Data Here](https://drive.google.com/drive/folders/1jME_jU3uq_wwKvdBoN7Eao6Ks8rq_PJC?usp=sharing)
+[Data Here](https://drive.google.com/drive/folders/1jME_jU3uq_wwKvdBoN7Eao6Ks8rq_PJC?usp=sharing)    
 There are different types of network attacks such as Brute Force FTP, Brute Force SSH, DoS, Heartbleed, Web Attack, Infiltration, Botnet and DDoS. But, in this data set we have only provided **DoS attack**.
 - Data is in **csv** format, training samples: 519519 , features: 79 which contains ID, Label, Packet Info Features, Session Info Features.
 - It is quite **Imbalanced Dataset**.
