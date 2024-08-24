@@ -66,4 +66,4 @@ Yes, we can indeed detect different Network Attacks using patterns in Data Packe
 
 Connect with Me
 Feel free to reach out or check out my other projects
-[LinedIn Demo](https://www.linkedin.com/feed/update/urn:li:activity:7233173120717643776/)
+[LinkedIn Demo](https://www.linkedin.com/feed/update/urn:li:activity:7233173120717643776/)
