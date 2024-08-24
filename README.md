@@ -61,3 +61,9 @@ Yes, we can indeed detect different Network Attacks using patterns in Data Packe
 - HTTP slow POST DoS attack: sends large content length header and sends content very slow speed.- the attacker sends traffic consisting of complicated requests to the system.
 
 ###### Interview Project by/for [Quadratyx](https://quadratyx.com) 🤝
+
+
+
+Connect with Me
+Feel free to reach out or check out my other projects
+[LinedIn Demo](https://www.linkedin.com/feed/update/urn:li:activity:7233173120717643776/)
